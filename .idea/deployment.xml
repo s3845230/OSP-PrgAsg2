@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="titan.csit.rmit.edu.au" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="titan.csit.rmit.edu.au">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/OSPAssignment2/OSP-PrgAsg2" local="$PROJECT_DIR$" web="/OSPAssignment2/OSP-PrgAsg2" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

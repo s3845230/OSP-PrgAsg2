@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+java -jar VSFS.jar $1 $2 $3 $4

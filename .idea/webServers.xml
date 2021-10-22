@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5bd0e28d-38a6-464b-abd2-6717d6f915fb" name="titan.csit.rmit.edu.au" url="http://titan.csit.rmit.edu.au">
+        <fileTransfer rootFolder="/home/sl0/S3845230" accessType="SFTP" host="titan.csit.rmit.edu.au" port="22" sshConfigId="956c929e-57af-430f-a47a-19610f003dc5" sshConfig="s3845230@titan.csit.rmit.edu.au:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
